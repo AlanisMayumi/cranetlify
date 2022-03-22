@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React with Mayumi
+          Learn React with Mayumi 💜
         </a>
       </header>
     </div>
